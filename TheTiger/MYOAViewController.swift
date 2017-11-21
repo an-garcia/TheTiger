@@ -18,7 +18,9 @@ class MYOAViewController: UIViewController {
     }
     
     @objc func startOver() {
-        
+        if let navigationController = navigationController {
+            navigationController.popToRootViewController(animated: true)
+        }
     }
 
     override func didReceiveMemoryWarning() {
