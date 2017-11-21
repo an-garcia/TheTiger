@@ -1,8 +1,8 @@
 # TheTiger
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-20at18.57.29.png)
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-20at18.57.36.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-20at19.28.34.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-20at19.28.47.png)
 
 
 TheTiger is an iOS sample application that tells a story and let the user choose an action using navigation.
